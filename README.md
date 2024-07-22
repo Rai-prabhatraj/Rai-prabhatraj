@@ -1,20 +1,17 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://github.com/Rai-prabhatraj/Githubprofile/blob/main/intro.gif">
+	<img src="https://github.com/Rai-prabhatraj/Rai-prabhatraj/blob/main/intro.gif">
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Rungta College of Engineering & Technology,Bhilai. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-
+I am currently a student at Rungta College of Engineering & Technology, Bhilai. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
+## What I know :computer:
+- **Programming Languages (Data Structures & Algorithms)**
 <center>
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
 					<td width="25%" align="center">
 						<span><strong>C++</strong></span><br/>
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
@@ -27,6 +24,7 @@ I am a student, currently studying in Rungta College of Engineering & Technology
 			</tbody>
 		</table>
 	</center>
+ 
 - **Frontend Development**
 	<center>
 		<table>
@@ -61,16 +59,6 @@ I am a student, currently studying in Rungta College of Engineering & Technology
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 					</td>
 					<td align="center">
-						<span><strong>Material UI</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-					</td>
-					<td align="center">
-						<span><strong>React Native</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-				</tr>
-				<tr>
-					<td align="center">
 						<span><strong>Next JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
 					</td>
@@ -100,30 +88,27 @@ I am a student, currently studying in Rungta College of Engineering & Technology
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>Firebase</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
-- Unlock the secret to the universe :rofl:
+- Master React Native.
+- Explore the realms of AI and ML.
+- Achieve expertise in competitive programming.
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/Rai-prabhatraj?label=Follow&style=social)](https://github.com/Rai-prabhatraj)
-[![Instagram](https://img.shields.io/badge/-@prabhatraj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rai.prabhatraj/)](https://www.instagram.com/sarthak_bharadwaj_/)
+[![Instagram](https://img.shields.io/badge/-@prabhatraj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rai.prabhatraj/)](https://www.instagram.com/rai.prabhatraj/)
 [![Linkedin](https://img.shields.io/badge/-Prabhat%20Raj%20Rai-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhat-raj-rai-81984b196/)](https://www.linkedin.com/in/prabhat-raj-rai-81984b196/)
 [![Mail](https://img.shields.io/badge/prabhatrajrai4@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/prabhat-raj-rai-81984b196)](mailto:prabhatrajrai4@gmail.com)
 
 
 ### Interesting stats
 
-[Prabhat's stats](https://github-readme-stats.vercel.app/api?username=Rai-prabhatraj&show_icons=true)
+![Prabhat's stats](https://github-readme-stats.vercel.app/api?username=Rai-prabhatraj&show_icons=true)
+
 
 Thanks for stopping by! 😁
 
