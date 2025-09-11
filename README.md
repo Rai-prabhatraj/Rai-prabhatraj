@@ -1,37 +1,35 @@
 # Hey there! 👋 I'm Prabhat Raj Rai
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Problem+Solver;Building+Digital+Experiences;Turning+Ideas+into+Reality;Always+Pushing+Boundaries!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Rai-prabhatraj/Rai-prabhatraj/blob/main/intro.gif" alt="Welcome GIF" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="500"/>
 </div>
+
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```typescript
 const prabhat = {
-    location: "Bhilai, India 🇮🇳",
-    education: "Rungta College of Engineering & Technology",
-    currentFocus: "Full Stack Development & DSA",
-    passion: "Building innovative solutions 💻",
-    philosophy: "Knowledge is limitless 🧠",
-    availableFor: "Collaborations & Learning opportunities",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    location: "India 🇮🇳",
+    currentFocus: "Building systems that solve real business challenges",
+    impact: "Bridging the gap between user needs and technical possibilities",
+    specialization": "Turning operational headaches into automated workflows",
+    approach: "Listen deeply, architect thoughtfully, deliver measurably",
+    superpower: "Converting business requirements into scalable, maintainable systems",
+    availableFor: "Innovative projects & technical collaborations",
+    motto: "Build fast, break things, learn faster "
 };
 ```
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **React Native, AI/ML, and Advanced DSA**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, and Problem Solving**
-- ⚡ Fun fact: **I turn coffee into code! ☕➡️💻**
-
+- Currently working on **Full Stack Web Applications**
+- Learning **React Native, AI/ML, and Advanced DSA**
+- Looking to collaborate on **Open Source Projects**
+- Ask me about **React, Node.js, MongoDB, and Problem Solving**
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -71,19 +69,19 @@ const prabhat = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rai-prabhatraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-prabhatraj&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rai-prabhatraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-prabhatraj&layout=compact&langs_count=10&theme=radical&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rai-prabhatraj&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rai-prabhatraj&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rai-prabhatraj&theme=tokyo-night&bg_color=1a1b27&color=9745f5&line=9745f5&point=403d3d&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rai-prabhatraj&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
 </div>
 
 ---
@@ -107,14 +105,6 @@ graph TD
 
 </div>
 
-### 🔥 Goals for 2024-2025
--  Master React Native for cross-platform mobile development
--  Dive deep into AI/ML and build intelligent applications
--  Achieve expert level in competitive programming
--  Contribute to major open-source projects
--  Learn cloud technologies (AWS/Azure)
-
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -125,11 +115,10 @@ graph TD
 
 ---
 
-## 📈 Contribution Graph
 
 <div align="center">
   
-![Snake animation](https://github.com/Rai-prabhatraj/Rai-prabhatraj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -140,9 +129,9 @@ graph TD
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-raj-rai-81984b196/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rai.prabhatraj/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhatrajrai4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rai-prabhatraj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://prabhatrajrai.xyz)
 
 </div>
 
@@ -152,22 +141,21 @@ graph TD
 
 ---
 
-## 💭 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🎵 "Code is like music. A good programmer is a good composer." 🎵</h3>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   
-  **Thanks for visiting! Let's build something amazing together! 🚀**
+  **Ready to build the future together? Let's turn ideas into digital reality! 🚀**
   
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header"/>
+  
+  **Thanks for visiting!**
 </div>
 
----
 
 ⭐️ **From [Prabhat Raj Rai](https://github.com/Rai-prabhatraj)** with ❤️
