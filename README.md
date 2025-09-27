@@ -84,24 +84,7 @@ const prabhat = {
 
 ---
 
-## 🎯 What's Next?
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[Current Focus] --> B[React Native Mastery 📱]
-    A --> C[AI/ML Exploration 🤖]
-    A --> D[Competitive Programming 🏆]
-    B --> E[Mobile App Development]
-    C --> F[Machine Learning Projects]
-    D --> G[Algorithm Optimization]
-    E --> H[Full Stack Mobile Solutions]
-    F --> I[AI-Powered Applications]
-    G --> J[Problem Solving Expertise]
-```
-
-</div>
 
 ---
 
