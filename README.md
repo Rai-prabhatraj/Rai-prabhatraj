@@ -78,9 +78,9 @@ const prabhat = {
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rai-prabhatraj&theme=radical&border_radius=10" alt="GitHub Streak"/> 
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rai-prabhatraj&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
-</div>
+</div> -->
 
 ---
 
