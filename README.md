@@ -79,18 +79,9 @@ const prabhat = {
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rai-prabhatraj&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
 </div> -->
-
----
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rai-prabhatraj&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
