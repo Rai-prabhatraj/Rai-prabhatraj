@@ -26,12 +26,6 @@ const prabhat = {
 };
 ```
 
-- Currently working on **Full Stack Web Applications**
-- Learning **React Native, AI/ML, and Advanced DSA**
-- Looking to collaborate on **Open Source Projects**
-- Ask me about **React, Node.js, MongoDB, and Problem Solving**
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -69,19 +63,19 @@ const prabhat = {
 
 ---
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rai-prabhatraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&token=YOURGITHUBTOKEN"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-prabhatraj&layout=compact&langs_count=10&theme=radical&border_radius=10&token=YOURGITHUBTOKEN"/>
 </div>
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rai-prabhatraj&theme=radical&border_radius=10" alt="GitHub Streak"/> 
-</div> -->
-<!-- <div align="center">
+</div> 
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rai-prabhatraj&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
-</div> -->
-<!-- <div align="center">
+</div> 
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rai-prabhatraj&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div> -->
+</div> 
 
 ---
 
